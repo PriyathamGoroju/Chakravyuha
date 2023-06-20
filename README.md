@@ -1,5 +1,5 @@
 # Chakravyuha
-  ###i assumed that abhimanyu can't recharge his powers in the middle of a battle
+#### i assumed that abhimanyu can't recharge his powers in the middle of a battle
     a = no. of enemies abhimanyu can skip
     b = no. of abhimanyu can recharge his power
     p = power of abhimanyu
